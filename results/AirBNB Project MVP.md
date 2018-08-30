@@ -8,17 +8,15 @@ Travelling and experiencing the local lifestyle through staying at a local's hom
 
 __Goals__
 
-1. *Customer perspective:* Build __Recommendation Engine__ to recommend similar homes in the same city when a user searches on one home 
-    - Classification on types of homes
-    - Clustering for different styles of stays
-    - Use image recognition for photos classification (what type of home is it and how nice will it be? How quiet or urban will it be? )
-    - Potentially recommend homes in a different city based on what user searched on / user history if I can find user history
-
-2. *Host perspective:* Build a __Host Dashboard__ that has a sentiment score over time
+1. *Host perspective:* Build a __Host Dashboard__ that has a sentiment score over time
     - Review summaries over X period for hosts, so they know what to improve on and what they do well in
-    - Linear Models for pricing to let the seller know whether the pricing is above or below comparable homes
     - NLP and sentiment analysis on reviews for sentiment score time-series
-
+    - Linear Models for pricing to let the seller know whether the pricing is above or below comparable homes
+2. *Customer perspective:* Build __Recommendation Engine__ to recommend similar homes in the same city when a user searches on one home 
+    - Clustering for different styles of stays (luxury, quaint, convenient, community feel, etc)
+    - Use image recognition for photos classification (what type of home is it and how nice will it be? How quiet or urban will it be? ) - Nice to have
+    - Try to find a Classification problem - Nice to have
+    - Recommend homes in a different city based on what user searched on / user history if I can find user history - Stretch goal
 3. *Visualization:* Interactive Map and Host Dashboard 
 
 __Data__
