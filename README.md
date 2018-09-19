@@ -28,7 +28,7 @@ The code for this project is done in python, using machine learning techniques i
 
 **Results**
 
-The final **Airbnb Host Dashboard** can be found in the *“results”* directory as a “[Host Dashboard.twb](https://github.com/bellepeng/Project_AirBNB/blob/master/results/Host%20Dashboard.twb)” along with a deck to explain the project in a more visually fun way “[AirBNB Host Dashboard Presentation.pptx](https://github.com/bellepeng/Project_AirBNB/blob/master/results/AirBNB%20Host%20Dashboard%20Presentation.pptx)”. The dashboard contains these sections:
+The final **Airbnb Host Dashboard** can be found in the *“results”* directory as a *“[Belle's Airbnb Host Dashboard.twbx](https://github.com/bellepeng/Project_AirBNB/blob/master/results/Belle's%20Airbnb%20Host%20Dashboard.twbx)”* along with a deck to explain the project in a more visually fun way “[AirBNB Host Dashboard Presentation.pptx](https://github.com/bellepeng/Project_AirBNB/blob/master/results/AirBNB%20Host%20Dashboard%20Presentation.pptx)”. The dashboard contains these sections:
 
 - A 2-sentences review summary of the most recent 20 reviews for each listing, so that a host can gauge the guests’ main reviews without having to read all of the reviews 
 - A top 3 topic to tell the hosts what their guests are talking about 
@@ -37,7 +37,7 @@ The final **Airbnb Host Dashboard** can be found in the *“results”* director
 
  
 
-**Future**
+**Future Extensions**
 
 I plan to expand this project in the future with the following components / ideas:
 
